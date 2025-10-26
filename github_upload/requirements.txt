@@ -1,0 +1,4 @@
+kivy>=2.2.0
+pyyaml>=6.0
+pyinstaller>=5.0.0  # 用于Windows打包
+certifi>=2023.05.07
